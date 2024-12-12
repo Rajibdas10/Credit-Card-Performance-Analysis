@@ -180,24 +180,6 @@ The Power BI dashboards include the following key visualizations:
 
 ---
 
-## Project Structure
-```
-power-bi-credit-analysis/
-|
-├── data/
-│   └── sample_dataset.csv
-├── dashboards/
-│   └── credit_card_analysis.pbix
-├── screenshots/
-│   ├── revenue_trends.png
-│   ├── customer_segmentation.png
-│   ├── geographic_analysis.png
-│   └── delinquency_rates.png
-├── README.md
-```
-
----
-
 ## How to Access the Dashboards
 1. Clone this repository:
    ```bash
