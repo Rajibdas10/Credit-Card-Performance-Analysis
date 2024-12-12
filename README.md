@@ -201,7 +201,7 @@ power-bi-credit-analysis/
 ## How to Access the Dashboards
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/credit-card-analysis.git
+   git clone Credit_Card_Report.pbix
    ```
 2. Open the Power BI file located in the `dashboards/` folder.
 3. Review the interactive dashboards and explore the key insights.
