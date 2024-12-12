@@ -29,12 +29,12 @@ The dataset includes detailed transaction-level data with the following key attr
 ---
 
 ## Key Insights
-### Week-over-Week (WoW) Change:
+### Week-over-Week Change:
 - **Revenue:** Increased by 28.8%.
 - **Total Transaction Amount & Count:** Increased by significant margins.
 - **Customer Count:** Experienced noticeable growth.
 
-### Year-to-Date (YTD) Overview:
+### Year-to-Date Overview:
 - **Overall Revenue:** $57M.
 - **Total Interest:** $8M.
 - **Total Transaction Amount:** $46M.
