@@ -198,7 +198,7 @@ The Power BI dashboards include the following key visualizations:
 ---
 
 ## Contact
-For inquiries or collaboration opportunities, feel free to reach out:
+For inquiries , feel free to reach out:
 - **Email:** rajibdas10.10.1999@gmail.com
 - **LinkedIn:** [Rajib Das](https://www.linkedin.com/in/rajib-das-4a6063215)
 
